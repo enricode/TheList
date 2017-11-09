@@ -163,6 +163,7 @@ Server Side Swift frameworks are projects that provide an infrastructure with wh
 
 * [Perfect XML](https://github.com/PerfectlySoft/Perfect-XML) - XML support for Perfect.
 * [Zewo XML](https://github.com/Zewo/XML) - XML/HTML parser for Swift.
+* [Kanna](https://github.com/tid-kijyun/Kanna) - XML/HTML parser for Swift.
 
 ### MessagePack
 
